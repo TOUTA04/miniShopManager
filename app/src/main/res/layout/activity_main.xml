@@ -18,5 +18,5 @@
         android:id="@+id/btnNext"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Suivant" />
+        android:text="Voir le Catalogue" />
 </LinearLayout>

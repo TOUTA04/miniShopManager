@@ -17,8 +17,7 @@ class MainActivity : AppCompatActivity() {
 
         btnNext.setOnClickListener {
             Toast.makeText(this, "Bonjour Eya benzarti !", Toast.LENGTH_SHORT).show()
-            val intent = Intent(this, ProfileActivity::class.java)
-            startActivity(intent)
+            startActivity(Intent(this, CatalogueActivity::class.java))
         }
 
         Log.d("LIFECYCLE", "onCreate appelé")
