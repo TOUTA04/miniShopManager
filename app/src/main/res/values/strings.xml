@@ -5,7 +5,6 @@
     <item>Chargeur USB</item>
     <item>Accessoires</item>
     <item>Cosmétiques</item>
-</string-array>
-<resources>
-    <string name="app_name">MiniShopManager</string>
+</string-array><resources>
+<string name="app_name">MiniShopManager</string>
 </resources>

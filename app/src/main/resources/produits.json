@@ -1,0 +1,10 @@
+{
+  "produits": [
+    {"nom": "Téléphone", "prix": 1200},
+    {"nom": "Casque Bluetooth", "prix": 150},
+    {"nom": "Montre connectée", "prix": 300},
+    {"nom": "Chargeur USB", "prix": 25},
+    {"nom": "Accessoires", "prix": 40},
+    {"nom": "Cosmétiques", "prix": 60}
+  ]
+}
